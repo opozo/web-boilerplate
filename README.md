@@ -6,7 +6,3 @@
 - jQuery
 - Twitter Bootstrap
 - HTML5Shiv
-
-## Demo
-
-- http://web-boilerplate.appspot.com
